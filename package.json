@@ -1,0 +1,14 @@
+{
+  "name": "cam_m8_js",
+  "version": "1.0.0",
+  "description": "Programme pour discuter avec le module CAM-M8 en NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CAM-M8"
+  ],
+  "author": "Amjad&Lolo",
+  "license": "ISC"
+}
